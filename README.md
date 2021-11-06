@@ -1,8 +1,8 @@
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## `npm install --save bootstrap@5.1.3 react-cookie@4.1.1 react-router-dom@5.3.0 reactstrap@9.0.0`
+### `npm install --save bootstrap@5.1.3 react-cookie@4.1.1 react-router-dom@5.3.0 reactstrap@9.0.0`
 
 In the project directory, you can run:
 
